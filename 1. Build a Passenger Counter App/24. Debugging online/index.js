@@ -1,0 +1,2 @@
+// Google:
+// innerText alternative mdn
