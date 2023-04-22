@@ -1,7 +1,3 @@
-## Welcome to [Learn JavaScript for Free](https://scrimba.com/learn/learnjavascript?utm_source=scrimba&utm_medium=scrim&utm_campaign=learn_javascript_launch&utm_content=fcc)
+## Learning JavaScript via [Learn JavaScript for Free](https://scrimba.com/learn/learnjavascript?utm_source=scrimba&utm_medium=scrim&utm_campaign=learn_javascript_launch&utm_content=fcc)
 
-Here, you can find the starter files for all the challenges in the course. To get started, download the entire repo and then navigate to the folder you need - the folders are structured just like the course. 
-
-If you have any problems at all, send an email to help@scrimba.com or join our [Discord server](scrimba.com/discord) and we'll give you a hand. 
-
-Happy coding!
+The starter files for the challenges on [Scrimba source repo](https://github.com/scrimba/learn-javascript) were pre-filled so I chose to delete them and start fresh, and while the css and HTML content is not the focus of this course, I also decided to delete it so that I practice and more via repetition and get creative with it.
