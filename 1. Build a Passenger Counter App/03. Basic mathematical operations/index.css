@@ -1,0 +1,15 @@
+body {
+  background-image: url("/Media/station.jpg");
+  background-size: cover;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 1rem 0;
+}
+
+h2 {
+  font-size: 4rem;
+  margin: 0 0 2rem
+}
