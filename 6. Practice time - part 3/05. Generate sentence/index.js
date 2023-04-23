@@ -8,6 +8,3 @@
 // "The 2 best fruits are Apples, Bananas"
 
 // Use both a for loop and a template string to solve the challenge
-function generateSentence(desc, arr) {
-    
-}
