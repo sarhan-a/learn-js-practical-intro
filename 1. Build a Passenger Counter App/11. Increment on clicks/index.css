@@ -1,0 +1,31 @@
+body {
+  background-image: url("/Media/station.jpg");
+  background-size: cover;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  margin: 1rem 0;
+}
+
+h2 {
+  font-size: 4rem;
+  margin: 0 0 2rem;
+}
+
+button {
+  color: antiquewhite;
+  border: none;
+  font-weight: bold;
+  width: 15rem;
+  padding: 0.6rem 3rem;
+  margin-bottom: 0.3rem;
+  border-radius: 0.3rem;
+  box-shadow: 0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 0.2)
+}
+
+#increment-btn {
+  background-color: rgb(162, 6, 37);
+}
