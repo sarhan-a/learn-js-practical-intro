@@ -1,0 +1,21 @@
+body {
+  background: whitesmoke;
+  padding: 6rem;
+  text-align: center;
+}
+
+#apple-shelf {
+  height: 2rem;
+  line-height: 2rem;
+  margin: 0.7rem 0;
+  background: rgb(249, 118, 118);
+  border-radius: 1rem;
+}
+
+#orange-shelf {
+  height: 2rem;
+  line-height: 2rem;
+  margin: 0.7rem 0;
+  background-color: rgb(236, 150, 116);
+  border-radius: 1rem;
+}
