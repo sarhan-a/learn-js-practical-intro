@@ -1,7 +1,15 @@
 body {
-
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background: whitesmoke;
+  text-align: center;
+  padding: 1rem 0;
 }
 
 button {
-
+  color: rgb(29, 19, 37);
+  background:peachpuff;
+  border: 1px solid rgb(29, 19, 37);
+  border-radius: 0.2rem;
+  padding: 0.4rem 0.8rem
 }
